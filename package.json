@@ -1,0 +1,12 @@
+{
+  "name": "Binary_Search_Tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bst_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
